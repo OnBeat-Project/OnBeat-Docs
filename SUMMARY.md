@@ -1,4 +1,6 @@
 ‌# Summary​
 
+* [Intro](README.md)
+
 ## Guidelines
-* [Test](README.md)
+* [Terms of Service](guidelines/TOS.md)
