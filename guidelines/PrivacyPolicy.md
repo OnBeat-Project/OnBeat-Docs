@@ -20,4 +20,4 @@ We may modify this Privacy Policy at any time, and any changes will be effective
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data collection practices, please contact us at our [Discord Server]()
+If you have any questions or concerns about this Privacy Policy or our data collection practices, please contact us at our [Discord Server](https://discord.gg/4XfKVD9b)
